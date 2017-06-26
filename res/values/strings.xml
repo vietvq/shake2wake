@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Shake2Wake</string>
+    <string name="btOn">ON</string>
+    <string name="btOff">OFF</string>
+    <string name="lbEnable">Enable</string>
+    <string name="lbSound">Sound</string>
+    <string name="lbConfigTitle">Shake2Wake Config</string>
+    <string name="lbSensitive">Sensitive Value</string>
+    <string name="rd_low">Low</string>
+    <string name="rd_medium">Medium</string>
+    <string name="rd_high">High</string>
+</resources>
